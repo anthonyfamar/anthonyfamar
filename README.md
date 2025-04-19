@@ -46,7 +46,7 @@
     alt="CSS" 
     title="CSS"
     width="29px" 
-    style="padding-right: 10px; align: left;" 
+    style="padding-right: 10px; float: left;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
@@ -54,7 +54,7 @@
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px; align: left;" 
+    style="padding-right: 10px; float: left;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
@@ -62,7 +62,7 @@
     alt="Python" 
     title="Python"
     width="31px" 
-    style="padding-right: 10px; align: left;" 
+    style="padding-right: 10px; float: left;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
