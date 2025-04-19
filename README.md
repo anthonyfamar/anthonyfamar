@@ -119,7 +119,6 @@
 
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -127,7 +126,6 @@
   />
 
 <img 
-      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyfamar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
