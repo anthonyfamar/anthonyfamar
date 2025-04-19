@@ -38,69 +38,69 @@
     alt="HTML"
     title="HTML" 
     width="29px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     alt="CSS" 
     title="CSS"
     width="29px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     alt="Python" 
     title="Python"
     width="31px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     alt="Django" 
     title="Django"
     width="30px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
     alt="GitHub" 
     title="GitHub"
     width="30px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
     alt="C#" 
     title="C#"
     width="30px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     alt="MicrosoftSqlServer" 
     title="MicrosoftSqlServer"
     width="30px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <img 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="30px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     alt="SQLite" 
     title="SQLite"
     width="30px" 
-    style="padding-right: 10px; float: left;" 
+    style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
