@@ -104,7 +104,7 @@
     style="padding-right: 15px; float: left;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
-<br/>
+
 ---
 
 ### 📊 Estatísticas
