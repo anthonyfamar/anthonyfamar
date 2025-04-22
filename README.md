@@ -1,6 +1,6 @@
 # 👨🏾‍💻Olá, sou o Anthony Famar!
 
-    **`Estagiário`**
+    **`Desenvolvedor`**
 
 🎓 Estudante de Ciência da Computação na UNIC  
 📍 Nascido em Cuiabá - MT, 24 anos  
